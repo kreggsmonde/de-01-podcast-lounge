@@ -16,5 +16,14 @@
     "duration_min": 18.69,
     "video_file": "podcast_ep2_20261015_083217.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "Die Kunst des achtsamen Atmens: Ein stiller Anker im Alltag",
+    "date": "2026-10-17T11:52:43.068324",
+    "duration_sec": 1350.96,
+    "duration_min": 22.52,
+    "video_file": "podcast_ep3_20261017_113811.mp4",
+    "platform": "Facebook"
   }
 ]
