@@ -26,6 +26,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.52,
     "video_file": "podcast_ep3_20261017_113811.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "Die stille Kraft der Worte: Bewusst wählen, tiefer fühlen",
+    "date": "2026-10-18T05:33:19.224643",
+    "duration_sec": 1453.87,
+    "duration_min": 24.23,
+    "video_file": "podcast_ep4_20261018_051415.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
