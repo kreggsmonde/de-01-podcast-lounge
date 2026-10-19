@@ -35,6 +35,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.23,
     "video_file": "podcast_ep4_20261018_051415.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "Die sanfte Kunst des Loslassens: Raum schaffen für Neues",
+    "date": "2026-10-19T05:43:27.178869",
+    "duration_sec": 1288.82,
+    "duration_min": 21.48,
+    "video_file": "podcast_ep5_20261019_052544.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
