@@ -52,5 +52,14 @@
     "duration_min": 20.58,
     "video_file": "podcast_ep6_20261020_052748.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 7,
+    "topic": "Das leise Summen der Gedanken: Innere Klänge wahrnehmen und gestalten",
+    "date": "2026-10-21T05:46:15.940459",
+    "duration_sec": 1196.57,
+    "duration_min": 19.94,
+    "video_file": "podcast_ep7_20261021_052535.mp4",
+    "platform": "Facebook"
   }
 ]
