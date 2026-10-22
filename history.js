@@ -62,6 +62,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.94,
     "video_file": "podcast_ep7_20261021_052535.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 8,
+    "topic": "Das leise Flüstern der Natur: Achtsamkeit im Freien neu entdecken",
+    "date": "2026-10-22T05:48:38.613903",
+    "duration_sec": 1318.56,
+    "duration_min": 21.98,
+    "video_file": "podcast_ep8_20261022_053142.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
