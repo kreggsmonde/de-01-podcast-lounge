@@ -71,6 +71,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.98,
     "video_file": "podcast_ep8_20261022_053142.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "Das leise Echo der Stille: Gedanken sanft ordnen und Klarheit finden",
+    "date": "2026-10-23T05:50:00.877565",
+    "duration_sec": 1260.48,
+    "duration_min": 21.01,
+    "video_file": "podcast_ep9_20261023_052946.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
