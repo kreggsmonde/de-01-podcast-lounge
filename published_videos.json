@@ -88,5 +88,14 @@
     "duration_min": 19.32,
     "video_file": "podcast_ep10_20261024_050848.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "Das leise Glühen des Selbstmitgefühls: Sanft zu dir selbst sein im Alltag",
+    "date": "2026-10-25T05:42:08.607076",
+    "duration_sec": 1304.3,
+    "duration_min": 21.74,
+    "video_file": "podcast_ep11_20261025_052455.mp4",
+    "platform": "Facebook"
   }
 ]
