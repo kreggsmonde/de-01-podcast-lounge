@@ -98,6 +98,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.74,
     "video_file": "podcast_ep11_20261025_052455.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "Das leise Fließen der Zeit: Momente bewusst genießen und Hektik entfliehen",
+    "date": "2026-10-26T05:43:08.726545",
+    "duration_sec": 1268.06,
+    "duration_min": 21.13,
+    "video_file": "podcast_ep12_20261026_052928.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
