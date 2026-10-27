@@ -107,6 +107,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.13,
     "video_file": "podcast_ep12_20261026_052928.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 13,
+    "topic": "Die sanfte Kunst des Zuhörens: Die Welt mit offenen Ohren empfangen",
+    "date": "2026-10-27T06:08:20.041326",
+    "duration_sec": 1325.69,
+    "duration_min": 22.09,
+    "video_file": "podcast_ep13_20261027_054534.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
