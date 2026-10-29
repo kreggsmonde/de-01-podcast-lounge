@@ -115,5 +115,14 @@
     "duration_min": 22.09,
     "video_file": "podcast_ep13_20261027_054534.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 14,
+    "topic": "Das leise Leuchten des Augenblicks: Kleine Freuden im stillen Sein finden",
+    "date": "2026-10-29T06:50:22.467667",
+    "duration_sec": 1134.86,
+    "duration_min": 18.91,
+    "video_file": "podcast_ep14_20261029_063441.mp4",
+    "platform": "Facebook"
   }
 ]
