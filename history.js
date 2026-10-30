@@ -125,6 +125,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.91,
     "video_file": "podcast_ep14_20261029_063441.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 15,
+    "topic": "Das leise Rauschen der Gedankenpausen: Raum schaffen für innere Ruhe",
+    "date": "2026-10-30T06:48:39.148683",
+    "duration_sec": 1110.53,
+    "duration_min": 18.51,
+    "video_file": "podcast_ep15_20261030_063438.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
