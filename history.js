@@ -134,6 +134,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.51,
     "video_file": "podcast_ep15_20261030_063438.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 16,
+    "topic": "Das leise Lied der Langsamkeit: Den Wert des langsamen Gehens entdecken",
+    "date": "2026-10-31T06:39:37.873829",
+    "duration_sec": 1115.59,
+    "duration_min": 18.59,
+    "video_file": "podcast_ep16_20261031_062318.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
