@@ -143,6 +143,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.59,
     "video_file": "podcast_ep16_20261031_062318.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 17,
+    "topic": "Das leise Kichern des Glücks: Freude in den kleinen Dingen finden",
+    "date": "2026-11-01T07:09:16.255124",
+    "duration_sec": 1230.38,
+    "duration_min": 20.51,
+    "video_file": "podcast_ep17_20261101_065648.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
