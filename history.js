@@ -152,6 +152,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.51,
     "video_file": "podcast_ep17_20261101_065648.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "Das leise Flüstern der Intuition: Den inneren Kompass sanft erspüren",
+    "date": "2026-11-02T07:12:39.429659",
+    "duration_sec": 1181.49,
+    "duration_min": 19.69,
+    "video_file": "podcast_ep18_20261102_065632.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
