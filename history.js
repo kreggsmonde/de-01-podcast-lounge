@@ -161,6 +161,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.69,
     "video_file": "podcast_ep18_20261102_065632.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "Das leise Tanzen der Gedanken: Mit Anmut durch innere Landschaften gleiten",
+    "date": "2026-11-03T07:36:25.012348",
+    "duration_sec": 1137.14,
+    "duration_min": 18.95,
+    "video_file": "podcast_ep19_20261103_071923.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
