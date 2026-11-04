@@ -170,6 +170,15 @@ const PODCAST_HISTORY = [
     "duration_min": 18.95,
     "video_file": "podcast_ep19_20261103_071923.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 20,
+    "topic": "Das leise Weben der Träume: Innere Welten sanft erkunden",
+    "date": "2026-11-04T07:14:08.011963",
+    "duration_sec": 1202.93,
+    "duration_min": 20.05,
+    "video_file": "podcast_ep20_20261104_070157.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
