@@ -187,5 +187,14 @@
     "duration_min": 19.83,
     "video_file": "podcast_ep21_20261105_072853.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 22,
+    "topic": "Das leise Summen des Herzens: Den eigenen Rhythmus finden und ehren",
+    "date": "2026-11-06T07:44:39.066217",
+    "duration_sec": 1132.68,
+    "duration_min": 18.88,
+    "video_file": "podcast_ep22_20261106_072728.mp4",
+    "platform": "Facebook"
   }
 ]
