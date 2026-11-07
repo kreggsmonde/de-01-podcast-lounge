@@ -196,5 +196,14 @@
     "duration_min": 18.88,
     "video_file": "podcast_ep22_20261106_072728.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "Das leise Leuchten der Selbstakzeptanz: Dich selbst annehmen, genau so, wie du bist",
+    "date": "2026-11-07T06:58:45.099063",
+    "duration_sec": 1209.58,
+    "duration_min": 20.16,
+    "video_file": "podcast_ep23_20261107_064014.mp4",
+    "platform": "Facebook"
   }
 ]
