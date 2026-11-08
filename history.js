@@ -206,6 +206,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.16,
     "video_file": "podcast_ep23_20261107_064014.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 24,
+    "topic": "Das leise Atmen der Erde: Erdung im Hier und Jetzt finden",
+    "date": "2026-11-08T07:02:17.765555",
+    "duration_sec": 1153.17,
+    "duration_min": 19.22,
+    "video_file": "podcast_ep24_20261108_064558.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
