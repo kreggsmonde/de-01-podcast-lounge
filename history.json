@@ -214,5 +214,14 @@
     "duration_min": 19.22,
     "video_file": "podcast_ep24_20261108_064558.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 25,
+    "topic": "Das leise Pulsieren des Lebens: Im sanften Rhythmus des Alltags ankommen",
+    "date": "2026-11-09T07:33:46.995056",
+    "duration_sec": 1060.32,
+    "duration_min": 17.67,
+    "video_file": "podcast_ep25_20261109_071759.mp4",
+    "platform": "Facebook"
   }
 ]
