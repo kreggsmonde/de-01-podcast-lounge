@@ -223,5 +223,14 @@
     "duration_min": 17.67,
     "video_file": "podcast_ep25_20261109_071759.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 26,
+    "topic": "Das leise Schwingen der Gefühle: Sanfter Umgang mit inneren Wellen",
+    "date": "2026-11-10T08:14:14.589799",
+    "duration_sec": 1248.1,
+    "duration_min": 20.8,
+    "video_file": "podcast_ep26_20261110_075447.mp4",
+    "platform": "Facebook"
   }
 ]
