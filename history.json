@@ -232,5 +232,14 @@
     "duration_min": 20.8,
     "video_file": "podcast_ep26_20261110_075447.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "Das leise Glitzern der Zufälle: Die Magie des Unerwarteten entdecken",
+    "date": "2026-11-11T07:35:59.574624",
+    "duration_sec": 1183.3,
+    "duration_min": 19.72,
+    "video_file": "podcast_ep27_20261111_071808.mp4",
+    "platform": "Facebook"
   }
 ]
