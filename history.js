@@ -251,6 +251,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.04,
     "video_file": "podcast_ep28_20261112_074830.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 29,
+    "topic": "Das leise Schimmern der kleinen Momente: Glück im Alltäglichen finden",
+    "date": "2026-11-13T07:45:07.500966",
+    "duration_sec": 1227.82,
+    "duration_min": 20.46,
+    "video_file": "podcast_ep29_20261113_072608.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
