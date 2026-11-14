@@ -259,5 +259,14 @@
     "duration_min": 20.46,
     "video_file": "podcast_ep29_20261113_072608.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "Das leise Echo der Erinnerung: Schätze der Vergangenheit sanft bergen",
+    "date": "2026-11-14T07:21:43.538317",
+    "duration_sec": 1185.79,
+    "duration_min": 19.76,
+    "video_file": "podcast_ep30_20261114_070713.mp4",
+    "platform": "Facebook"
   }
 ]
