@@ -269,6 +269,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.76,
     "video_file": "podcast_ep30_20261114_070713.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "Das leise Einweben von Pausen: Die Kunst des Innehaltens im geschäftigen Tag",
+    "date": "2026-11-15T07:33:15.297157",
+    "duration_sec": 1222.25,
+    "duration_min": 20.37,
+    "video_file": "podcast_ep31_20261115_071839.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
