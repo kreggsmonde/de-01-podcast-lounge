@@ -278,6 +278,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.37,
     "video_file": "podcast_ep31_20261115_071839.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "Das leise Flüstern der Morgenröte: Den Tag sanft begrüßen und mit innerer Ruhe beginnen",
+    "date": "2026-11-16T07:39:03.992640",
+    "duration_sec": 1182.82,
+    "duration_min": 19.71,
+    "video_file": "podcast_ep32_20261116_072343.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
