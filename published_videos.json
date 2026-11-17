@@ -286,5 +286,14 @@
     "duration_min": 19.71,
     "video_file": "podcast_ep32_20261116_072343.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 33,
+    "topic": "Das leise Rascheln der Blätter: Gedanken sanft sortieren im Herbstwind",
+    "date": "2026-11-17T08:51:41.035213",
+    "duration_sec": 1256.26,
+    "duration_min": 20.94,
+    "video_file": "podcast_ep33_20261117_083614.mp4",
+    "platform": "Facebook"
   }
 ]
