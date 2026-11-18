@@ -295,5 +295,14 @@
     "duration_min": 20.94,
     "video_file": "podcast_ep33_20261117_083614.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 34,
+    "topic": "Das leise Summen der Selbstfürsorge: Energie tanken im sanften Rhythmus",
+    "date": "2026-11-18T08:16:27.246950",
+    "duration_sec": 1246.2,
+    "duration_min": 20.77,
+    "video_file": "podcast_ep34_20261118_080006.mp4",
+    "platform": "Facebook"
   }
 ]
