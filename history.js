@@ -305,6 +305,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.77,
     "video_file": "podcast_ep34_20261118_080006.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 35,
+    "topic": "Das leise Summen der Selbstakzeptanz: Dich selbst annehmen, genau so, wie du bist",
+    "date": "2026-11-19T08:19:40.875137",
+    "duration_sec": 1141.03,
+    "duration_min": 19.02,
+    "video_file": "podcast_ep35_20261119_080226.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
