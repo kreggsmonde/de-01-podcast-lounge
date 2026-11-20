@@ -314,6 +314,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.02,
     "video_file": "podcast_ep35_20261119_080226.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 36,
+    "topic": "Das leise Wiegen der Gelassenheit: Sanfte Akzeptanz für unperfekte Momente",
+    "date": "2026-11-20T08:07:06.692595",
+    "duration_sec": 1187.16,
+    "duration_min": 19.79,
+    "video_file": "podcast_ep36_20261120_075218.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
