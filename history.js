@@ -323,6 +323,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.79,
     "video_file": "podcast_ep36_20261120_075218.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 37,
+    "topic": "Das leise Glitzern der Geduld: Raum für das Ungeformte schaffen",
+    "date": "2026-11-21T08:04:53.842399",
+    "duration_sec": 1199.59,
+    "duration_min": 19.99,
+    "video_file": "podcast_ep37_20261121_074702.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
