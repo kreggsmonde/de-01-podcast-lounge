@@ -332,6 +332,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.99,
     "video_file": "podcast_ep37_20261121_074702.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 38,
+    "topic": "Das leise Summen des Augenblicks: Die Kunst, im Hier und Jetzt zu verweilen",
+    "date": "2026-11-22T07:53:02.468044",
+    "duration_sec": 1238.33,
+    "duration_min": 20.64,
+    "video_file": "podcast_ep38_20261122_073400.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
