@@ -340,5 +340,14 @@
     "duration_min": 20.64,
     "video_file": "podcast_ep38_20261122_073400.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 39,
+    "topic": "Das leise Nachklingen der Worte: Achtsam sprechen und zuhören für tiefere Verbindungen",
+    "date": "2026-11-23T08:39:14.286370",
+    "duration_sec": 1356.0,
+    "duration_min": 22.6,
+    "video_file": "podcast_ep39_20261123_082124.mp4",
+    "platform": "Facebook"
   }
 ]
