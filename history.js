@@ -350,6 +350,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.6,
     "video_file": "podcast_ep39_20261123_082124.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 40,
+    "topic": "Das leise Entfalten der Kreativität: Den eigenen inneren Schaffensfluss sanft entdecken",
+    "date": "2026-11-24T10:49:16.527294",
+    "duration_sec": 1245.72,
+    "duration_min": 20.76,
+    "video_file": "podcast_ep40_20261124_103005.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
