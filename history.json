@@ -358,5 +358,14 @@
     "duration_min": 20.76,
     "video_file": "podcast_ep40_20261124_103005.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 41,
+    "topic": "Das leise Flüstern der Vorfreude: Die Schönheit des Wartens entdecken",
+    "date": "2026-11-25T09:37:01.093098",
+    "duration_sec": 1223.23,
+    "duration_min": 20.39,
+    "video_file": "podcast_ep41_20261125_091838.mp4",
+    "platform": "Facebook"
   }
 ]
