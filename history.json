@@ -367,5 +367,14 @@
     "duration_min": 20.39,
     "video_file": "podcast_ep41_20261125_091838.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 42,
+    "topic": "Das leise Wandern der Gedankenpfade: Orientierung im inneren Labyrinth finden",
+    "date": "2026-11-26T09:12:56.628992",
+    "duration_sec": 1179.96,
+    "duration_min": 19.67,
+    "video_file": "podcast_ep42_20261126_085740.mp4",
+    "platform": "Facebook"
   }
 ]
