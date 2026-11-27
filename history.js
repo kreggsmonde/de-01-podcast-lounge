@@ -377,6 +377,15 @@ const PODCAST_HISTORY = [
     "duration_min": 19.67,
     "video_file": "podcast_ep42_20261126_085740.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 43,
+    "topic": "Das leise Echo der Stille: Innere Resonanz im Alltagsrauschen finden",
+    "date": "2026-11-27T09:28:53.603646",
+    "duration_sec": 1298.76,
+    "duration_min": 21.65,
+    "video_file": "podcast_ep43_20261127_091041.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
