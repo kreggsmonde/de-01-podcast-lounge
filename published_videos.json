@@ -385,5 +385,14 @@
     "duration_min": 21.65,
     "video_file": "podcast_ep43_20261127_091041.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 44,
+    "topic": "Das leise Wiegen des Loslassens: Sanftigkeit im Wandel finden",
+    "date": "2026-11-28T08:45:35.770142",
+    "duration_sec": 1233.21,
+    "duration_min": 20.55,
+    "video_file": "podcast_ep44_20261128_083124.mp4",
+    "platform": "None"
   }
 ]
